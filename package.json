@@ -1,7 +1,7 @@
 {
-  "name": "h2o2",
-  "description": "Proxy handler plugin for hapi.js",
-  "version": "5.4.0",
+  "name": "mod-h2o2",
+  "description": "modified fork of proxy handler plugin for hapi.js",
+  "version": "5.4.0-mod",
   "repository": "git://github.com/hapijs/h2o2",
   "main": "lib/index.js",
   "keywords": [
